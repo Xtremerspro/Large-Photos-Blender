@@ -1,0 +1,2 @@
+python Stitch.py
+pause
